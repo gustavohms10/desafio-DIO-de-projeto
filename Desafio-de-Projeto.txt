@@ -1,0 +1,47 @@
+<html>
+   <head>
+    <title> Página principal!</title>
+    <link rel="stylesheet" href="style.css">
+   </head>    
+   <body> 
+      <h1 id="inicio"> HTML.</h1>
+      <HR/>
+      <h2>Índice</h2>
+      <ol>
+         <LI><a href="#surgimento"> Surgimento da Interne</a> </LI>
+         <LI><a href="#como-funciona"> Como funciona o HTML?</a> </LI>
+         <LI><a href="#tags"> O que são tags?</a> </LI>
+      </ol>
+      <h2 id="surgimento">Surgimento da Internet.</h2>
+      <small><a href="#inicio"> (voltar) </a> </small>
+      <p>
+         A história da internet teve início com a Arpanet, uma rede de troca de informações que havia sido desenvolvida para conectar instalações de pesquisas e militares com o Pentágono, nos Estados Unidos, na década de 1960. O crescimento dessa rede permitiu que seu uso se estendesse para fins privados e comerciais. A internet chegou ao Brasil somente no final da década de 1980.
+      </p>
+      <P>
+         A internet é atualmente o maior meio de comunicação utilizado planeta, com mais de 5 bilhões de usuários. Por ela, é possível enviar mensagens instantaneamente, movimentar dinheiro em contas bancárias, comprar mercadorias, acessar redes sociais, fazer pesquisas etc.
+      </p>
+      <h2 id="como-funciona">Como funciona o HTML?</h2> 
+      <small><a href="#inicio"> (voltar) </a> </small>
+      <P>
+         O HTML é uma linguagem de marcação com a qual os elementos de uma página são identificados e definidos, geralmente, por um par de marcadores conhecidos como tags.
+      </P>
+      <p>
+         Esses elementos podem ser desde textos e suas formatações, como parágrafos, sublinhados e links, até conteúdos multimídia, como imagens e vídeos.
+      </p>
+      <h2 id="tags">O que são tags?</h2>
+      <small><a href="#inicio"> (voltar) </a> </small>
+      <p>
+         Os elementos HTML ou também chamados de tags HTML, são utilizados para informar ao navegador que tipo de estrutura é essa que está sendo construída, podendo ser títulos, parágrafos, imagens, links, entre outros.
+      </p>
+      <P>
+         Dessa forma, para que um documento seja interpretado pelo navegador, é necessário que o arquivo tenha a extensão .html e a partir disso, poderá ser exibido por qualquer navegador web.
+      </P>
+      <P>
+         As tags são formadas por uma estrutura própria, iniciam com o sinal “menor que”, em seguida vem o nome daquele elemento e por fim, o sinal “maior que”. Podem ser dispostas em tags que precisam de fechamento e tags que fecham sozinhas (self-closing). O fechamento de uma tag será definido com uma barra (/), sendo que no caso das tags de auto fechamento, não há necessidade da presença desse caractere.
+      </P>
+   </body>
+   <footer>
+     <hr/>
+      <h5>FIM</h5>
+   </footer>
+</html>
